@@ -32,4 +32,9 @@
 
     <string name="call_via">Call via</string>
     <string name="call_via_dialog_title">Call via\u2026</string>
+
+    <string name="disable_proximity_sensor_title">Disable proximity sensor</string>
+    <string name="disable_proximity_sensor_summary">Do not turn off touchscreen and display in call based on proximity</string>
+    <string name="sensor_settings_titile">Sensors</string>
+
 </resources>
